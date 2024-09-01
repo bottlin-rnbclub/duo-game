@@ -6,8 +6,8 @@
 
 
 # the total time for the project was:
--- create a main component( App ) +- 2 hours
--- create configuration for heroes (HeroSettings) +- 1 hours
+-- create a main component( App ) +- 2 hours <br>
+-- create configuration for heroes (HeroSettings) +- 1 hours <br>
 -- customization among development +- 10 minutes
 
 
