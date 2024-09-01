@@ -1,6 +1,15 @@
 # project pictures
 
-![Image alt](https://github.com/bottlin-rnbclub/duo-game/blob/main/image/1.png)
+![Image alt](https://github.com/bottlin-rnbclub/duo-game/blob/main/img/1.png)
+![Image alt](https://github.com/bottlin-rnbclub/duo-game/blob/main/img/2.png)
+![Image alt](https://github.com/bottlin-rnbclub/duo-game/blob/main/img/3.png)
+
+
+# the total time for the project was:
+-- create a main component( App ) +- 2 hours
+-- create configuration for heroes (HeroSettings) +- 1 hours
+-- customization among development +- 10 minutes
+
 
 # Getting Started with Create React App
 
